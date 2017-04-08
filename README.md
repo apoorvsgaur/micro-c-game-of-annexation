@@ -1,3 +1,3 @@
-# micro-c-game-of-annexation
+Complete report in MiniPrj Report.doc
 
-Complete report in 
+Project video: https://www.youtube.com/watch?v=DrGd8uMuVK4
